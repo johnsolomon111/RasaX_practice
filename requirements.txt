@@ -88,7 +88,7 @@ kfac==0.2.0
 kiwisolver==1.1.0
 labelImg==1.8.3
 lazy-object-proxy==1.4.3
-lxml==4.4.2
+lxml==4.9.1
 Mako==1.1.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
